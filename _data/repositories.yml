@@ -1,12 +1,18 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Anirudh0707
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - UCLA-VMG/EquiPleth
+  - Anirudh0707/EdgeML
+  - Anirudh0707/Pulse_Detection_From_Videos
+  - Anirudh0707/Approaches_for_Object_Detection
+  - anirudhssundar/Speech_Workshop_ECE
+
+github_course_projects:
+  - Anirudh0707/Le-Net-Implementations
+  - Anirudh0707/Roads-and-Building-Segmentation
+  - Anirudh0707/VGG16-Kaggle-Histopathology
+  - Anirudh0707/Audio-and-Speech-Processing-Mini-Project
+  - Anirudh0707/Active_Filters
+  - manan-sharma/vlsi_lab
+  
