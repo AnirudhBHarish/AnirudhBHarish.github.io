@@ -10,12 +10,12 @@ profile:
   image_circular: true # crops the image to make it circular
 
 news: true  # includes a list of news items
+research: true # include research interests
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a 2nd year Masters' student working in the [Visual Machines Group](https://visual.ee.ucla.edu/), UCLA, advised by [Prof. Achuta Kadambi](https://www.ee.ucla.edu/achuta-kadambi/). 
-
+I'm a 2nd year Masters' student working in the [Visual Machines Group](https://visual.ee.ucla.edu/), UCLA, advised by [Prof. Achuta Kadambi](https://www.ee.ucla.edu/achuta-kadambi/). During the summer, I worked as an intern in the Camera Quality Evaluation team at Qualcomm.
 
 Prior to coming to UCLA, I was a Research Intern at Microsoft Research India. I was a part of the EdgeML team, where I worked on audio processing algorithms for low-computation devices. 
 
