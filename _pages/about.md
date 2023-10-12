@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a 1st year PhD student in the Department of Electrical and Computer Engineering at [Rice University](https://www.rice.edu). My interest span the areas of medical imaging and digital health. Additional topics I find interesting are implicit representations and self-supervised learning, specially ones with a focus towards health.
 
-I graduated UCLA with a M.S degree in 2023, where I was a part of the [Visual Machines Group](https://visual.ee.ucla.edu/), advised by [Prof. Achuta Kadambi](https://www.ee.ucla.edu/achuta-kadambi/). Prior to coming to UCLA, I was a Research Intern with the EdgeML team at Microsoft Research India, advised by [Harsha Vardhan Simhadri](https://harsha-simhadri.org) and [Prateek Jain](https://www.prateekjain.org). I worked on audio processing algorithms for resource constrained devices. 
+I graduated from UCLA with a M.S degree in 2023, where I was a part of the [Visual Machines Group](https://visual.ee.ucla.edu/), advised by [Prof. Achuta Kadambi](https://www.ee.ucla.edu/achuta-kadambi/). Prior to coming to UCLA, I was a Research Intern with the EdgeML team at Microsoft Research India, advised by [Harsha Vardhan Simhadri](https://harsha-simhadri.org) and [Prateek Jain](https://www.prateekjain.org). I worked on audio processing algorithms for resource constrained devices. 
 
 I also received a B.Tech degree from NITK Surathkal in 2020. During the same time, I completed my Undergraduate Thesis on Structured Light Profilometry and 3-D Registration under the supervision of [Prof. Chandra Sekhar Seelamantula](https://sites.google.com/site/chandrasekharseelamantula/) at the Indian Institute of Science (IISc), Bangalore.
 
