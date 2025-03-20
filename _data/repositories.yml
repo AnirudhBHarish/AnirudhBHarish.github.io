@@ -1,19 +1,18 @@
 github_users:
-  - Anirudh0707
+  - AnirudhBHarish
 
 github_repos:
   - UCLA-VMG/EquiPleth
   - UCLA-VMG/syndicate
-  - Anirudh0707/EdgeML
-  - Anirudh0707/Pulse_Detection_From_Videos
-  # - Anirudh0707/Approaches_for_Object_Detection
+  - AnirudhBHarish/EdgeML
+  - AnirudhBHarish/Pulse_Detection_From_Videos
   - anirudhssundar/Speech_Workshop_ECE
 
 github_course_projects:
-  - Anirudh0707/Le-Net-Implementations
-  - Anirudh0707/Roads-and-Building-Segmentation
-  - Anirudh0707/VGG16-Kaggle-Histopathology
-  - Anirudh0707/Audio-and-Speech-Processing-Mini-Project
-  - Anirudh0707/Active_Filters
+  - AnirudhBHarish/Le-Net-Implementations
+  - AnirudhBHarish/Roads-and-Building-Segmentation
+  - AnirudhBHarish/VGG16-Kaggle-Histopathology
+  - AnirudhBHarish/Audio-and-Speech-Processing-Mini-Project
+  - AnirudhBHarish/Active_Filters
   - manan-sharma/vlsi_lab
   
