@@ -70,6 +70,31 @@
             border-radius: 5px;
         }
         
+        .dataset-box {
+            background-color: #2a2a2a;
+            border-left: 4px solid #2563eb;
+            padding: 25px;
+            margin: 30px 0;
+            border-radius: 5px;
+        }
+        
+        .dataset-box a {
+            color: #3b82f6;
+            text-decoration: none;
+        }
+        
+        .dataset-box a:hover {
+            text-decoration: underline;
+        }
+        
+        .dataset-box ul {
+            margin: 15px 0;
+        }
+        
+        .dataset-box .text-muted {
+            color: #9ca3af;
+        }
+        
         .video-side-by-side {
             display: flex;
             gap: 20px;
@@ -188,6 +213,26 @@
         <div class="abstract-box">
             <p>
                 Remote physiological sensing is an evolving area of research. As systems approach clinical precision, there is increasing focus on complex applications such as cognitive state estimation. Hence, there is a need for large datasets that facilitate research into complex downstream tasks such as remote cognitive load estimation. A first-of-its-kind, our paper introduces an open-source multimodal multi-vital sign dataset consisting of concurrent recordings from RGB, NIR (near-infrared), thermal, and RF (radio-frequency) sensors alongside contact-based physiological signals, such as pulse oximeter and chest bands, providing a benchmark for cognitive state assessment. By adopting a multimodal approach to remote health sensing, our dataset and its associated hardware system excel at modeling the complexities of cognitive load. Here, cognitive load is defined as the mental effort exerted during tasks such as reading, memorizing, and solving math problems. By using the NASA-TLX survey, we set personalized thresholds for defining high/low cognitive levels, enabling a more reliable benchmark. Our benchmarking scheme bridges the gap between existing remote sensing strategies and cognitive load estimation techniques by using vital signs (such as photoplethysmography (PPG) and respiratory waveforms) and physiological signals (blink waveforms) as an intermediary. Through this paper, we focus on replacing the need for intrusive contact-based physiological measurements with more user-friendly remote sensors. Our benchmarking demonstrates that multimodal fusion significantly improves remote vital sign estimation, with our fusion model achieving &lt;3 BPM (beats per minute) error for vital sign estimation. For cognitive load classification, the combination of remote PPG, remote respiratory signals, and blink markers achieves 86.49% accuracy, approaching the performance of contact-based sensing (87.5%) and validating the feasibility of non-intrusive cognitive monitoring.
+            </p>
+        </div>
+        
+        <!-- Dataset Access -->
+        <h2 class="section-title">Dataset Access</h2>
+        <div class="dataset-box">
+            <p>
+                Our multimodal physiological sensing dataset is available for research purposes. 
+                Due to the sensitive nature of physiological data, access requires signing a 
+                Data Use Agreement (DUA).
+            </p>
+            <p>
+                <strong>To request access to the dataset, please contact:</strong>
+            </p>
+            <ul>
+                <li>Anirudh Bindiganavale Harish: <a href="mailto:anirudhbh@rice.edu">anirudhbh@rice.edu</a></li>
+                <li>Ashok Veeraraghavan: <a href="mailto:vashok@rice.edu">vashok@rice.edu</a></li>
+            </ul>
+            <p class="text-muted">
+                <small>Please include your institutional affiliation and intended use case in your request.</small>
             </p>
         </div>
         
