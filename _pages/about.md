@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a 2nd year PhD student in the Department of Electrical and Computer Engineering at [Rice University](https://www.rice.edu). My interests span the areas of digital health and vital sign sensing, particularly applied to driver state sensing and patient monitoring. Additional topics I find interesting are implicit representations and self-supervised learning focused on healthcare technologies.
+I'm a 3rd year PhD student in the Department of Electrical and Computer Engineering at [Rice University](https://www.rice.edu). My interests span the areas of digital health and vital sign sensing, particularly applied to driver state sensing and patient monitoring. Additional topics I find interesting are implicit representations and self-supervised learning focused on healthcare technologies.
 
 I graduated from UCLA with a M.S degree in 2023, where I was a part of the [Visual Machines Group](https://visual.ee.ucla.edu/), advised by [Prof. Achuta Kadambi](https://www.ee.ucla.edu/achuta-kadambi/). Prior to coming to UCLA, I was a Research Intern with the EdgeML team at Microsoft Research India, advised by [Harsha Vardhan Simhadri](https://harsha-simhadri.org) and [Prateek Jain](https://www.prateekjain.org). I worked on audio processing algorithms for resource constrained devices. 
 
