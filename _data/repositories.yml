@@ -2,11 +2,10 @@ github_users:
   - AnirudhBHarish
 
 github_repos:
+  - AnirudhBHarish/CogPhys
   - UCLA-VMG/EquiPleth
   - UCLA-VMG/syndicate
   - AnirudhBHarish/EdgeML
-  - AnirudhBHarish/Pulse_Detection_From_Videos
-  - anirudhssundar/Speech_Workshop_ECE
 
 github_course_projects:
   - AnirudhBHarish/Le-Net-Implementations
