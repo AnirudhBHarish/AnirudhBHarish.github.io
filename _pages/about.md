@@ -6,7 +6,7 @@ subtitle: <a href='#'>Graduate Student@Rice</a>.
 
 profile:
   align: right
-  image: profile_pic.png
+  image: profile_pic.jpeg
   image_circular: true # crops the image to make it circular
 
 news: false  # includes a list of news items
